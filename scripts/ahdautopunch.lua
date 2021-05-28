@@ -1,4 +1,4 @@
-getgenv().P = true --type false here instead of true and execute to stop the auto punch
+getgenv().P = false --type false here instead of true and execute to stop the auto punch
 ;
 
 
